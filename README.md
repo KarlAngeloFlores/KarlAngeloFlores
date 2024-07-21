@@ -13,7 +13,7 @@
 </a>  
  
 
-<h2>About me 🛈</h2>
+## <h2>About me 🛈</h2>
 <h3>👨🏻‍💻 A Computer Science Student</h3>
 <h3>🌱 Constantly working on upgrading my skills in web development</h3>  
   
