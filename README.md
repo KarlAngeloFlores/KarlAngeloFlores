@@ -55,10 +55,9 @@
 
 
 <br/>
-
-### Contributions Summary
+### Contribution Graph
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KarlAngeloFlores&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=KarlAngeloFlores&theme=dracula" alt="Contribution Graph" />
 </div>
 
 ### Most Used Languages
