@@ -2,7 +2,7 @@
 
 ## 🌐 Focused on learning Full-Stack Web Development
 
-## Get in touch with me
+## ✉︎ Get in touch with me
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarlAngeloFlores)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-angelo-flores-1b5539274/)
