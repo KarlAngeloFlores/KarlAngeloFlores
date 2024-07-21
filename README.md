@@ -1,4 +1,4 @@
-### **<h1 align="center">I'm Karl Angelo, a Computer Science Student  currently focusing on Full-Stack Web Development 🌐. </h1>**  
+### **<h1>I'm Karl Angelo, a Computer Science Student  currently focusing on Full-Stack Web Development 🌐. </h1>**  
   
 
 <h3 align="center">🌱 Constantly working on upgrading my skills in web development</h3>  
