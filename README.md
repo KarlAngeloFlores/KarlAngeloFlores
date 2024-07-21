@@ -1,6 +1,4 @@
-# 👋 Hello there! Welcome to my GitHub!
-
-# Karl Angelo
+# 👋 Hello there! Welcome to my GitHub! I'm Karl Angelo Flores!
 
 ## 🌐 Focused on learning Full-Stack Web Development
 
