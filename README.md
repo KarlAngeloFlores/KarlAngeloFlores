@@ -56,6 +56,11 @@
 
 <br/>
 
+### Contributions Summary
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KarlAngeloFlores&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</div>
+
 ### Most Used Languages
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlAngeloFlores&theme=dark" alt="Top Languages" />
