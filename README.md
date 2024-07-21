@@ -67,7 +67,5 @@
 
 [![Karl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlAngeloFlores&theme=github_dark_dimmed&count_private=true&disable_animations=true)](https://github.com/KarlAngeloFlores)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KarlAngeloFlores&theme=dark)](https://github.com/KarlAngeloFlores)
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=KarlAngeloFlores&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
