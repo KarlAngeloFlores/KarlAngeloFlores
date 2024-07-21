@@ -56,7 +56,7 @@
 
 <br/>
 ### Contribution Graph
-<div align="center">
+<div>
     <img src="https://activity-graph.herokuapp.com/graph?username=KarlAngeloFlores&theme=dracula" alt="Contribution Graph" />
 </div>
 
