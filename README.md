@@ -56,8 +56,9 @@
 
 <br/>
 ### Contribution Graph
-<div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=KarlAngeloFlores&theme=dracula" alt="Contribution Graph" />
+<!-- Display GitHub contributions graph -->
+<div align="center">
+    <img src="https://github.com/KarlAngeloFlores/KarlAngeloFlores/blob/main/contribs.svg" alt="Contribution Graph" />
 </div>
 
 ### Most Used Languages
