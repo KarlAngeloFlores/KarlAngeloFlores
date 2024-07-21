@@ -56,12 +56,6 @@
 
 <br/>
 
-### Contribution Graph
-<!-- Display GitHub contributions graph -->
-<div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KarlAngeloFlores&theme=react-dark" alt="Contribution Graph" />
-</div>
-
 ### Most Used Languages
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlAngeloFlores&theme=dark" alt="Top Languages" />
