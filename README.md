@@ -57,6 +57,6 @@
 <br/>
 
 ## GitHub Stats
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=KarlAngeloFlores&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
