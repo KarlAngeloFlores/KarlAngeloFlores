@@ -1,6 +1,6 @@
 # Karl Angelo
 
-## 🌐 Full-Stack Web Developer
+## 🌐 Focused on learning Full-Stack Web Development
 
 ## Get in touch with me
 
