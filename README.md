@@ -13,7 +13,7 @@
 - 🌱 Constantly working on upgrading my skills in web development
 
 ### Frontend
-<div align="center">
+<div>
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />
     </a>  
@@ -35,7 +35,7 @@
 </div>
 
 ### Backend
-<div align="center">
+<div>
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />
     </a>  
