@@ -1,3 +1,5 @@
+# 👋 Hello there! Welcome to my GitHub!
+
 # Karl Angelo
 
 ## 🌐 Focused on learning Full-Stack Web Development
