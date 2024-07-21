@@ -55,10 +55,11 @@
 
 
 <br/>
+
 ### Contribution Graph
 <!-- Display GitHub contributions graph -->
 <div align="center">
-    <img src="https://github.com/KarlAngeloFlores/KarlAngeloFlores/blob/main/contribs.svg" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KarlAngeloFlores&theme=react-dark" alt="Contribution Graph" />
 </div>
 
 ### Most Used Languages
