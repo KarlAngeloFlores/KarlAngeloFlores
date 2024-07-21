@@ -1,8 +1,5 @@
 ### **<h1>I'm Karl Angelo, a Computer Science Student  currently focusing on Full-Stack Web Development🌐. </h1>**  
- <h2>About me 🛈</h2>
-<h3>👨🏻‍💻 A Computer Science Student</h3>
-<h3>🌱 Constantly working on upgrading my skills in web development</h3>  
-  
+
 ## <h2>Get in touch with me</h2>  
 <div>
 <a href="https://github.com/https://github.com/KarlAngeloFlores" target="_blank">
@@ -14,10 +11,12 @@
 <a href="https://www.facebook.com/https://www.facebook.com/setbooo/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
 
-<br/>
-
+<h2>About me 🛈</h2>
+<h3>👨🏻‍💻 A Computer Science Student</h3>
+<h3>🌱 Constantly working on upgrading my skills in web development</h3>  
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
