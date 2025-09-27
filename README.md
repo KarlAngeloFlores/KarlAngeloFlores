@@ -32,7 +32,7 @@
 ```javascript
 const karl = {
     role: "Full-Stack Developer",
-    education: "Computer Science Student",
+    education: "Computer Science Graduate",
     currentFocus: "Web Development",
     location: "Philippines 🇵🇭",
     
@@ -44,7 +44,7 @@ const karl = {
     ],
     
     currentlyLearning: ["React", "Node.js", "Database Design"],
-    lookingToCollaborate: "Open Source Projects",
+    lookingToCollaborate: "Full Stack Web Applications",
     funFact: "I debug with console.log() 🐛"
 };
 ```
